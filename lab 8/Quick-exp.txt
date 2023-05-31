@@ -1,0 +1,66 @@
+Sortarea descendenta dupa anul de nastere
+
+Prenumele : Eugen
+Numele : Marinciuc
+An nastere : 2003
+Adresa : Strada Pietrarilor, Chisinau
+Specialiatea  : MI
+Nota Programare : 9
+Nota Filozofie : 8
+Nota Limba Engleza : 10
+
+
+Prenumele : Radu
+Numele : Loghin
+An nastere : 2001
+Adresa : Strada Pietrarilor
+Specialiatea  : TI
+Nota Programare : 8
+Nota Filozofie : 8
+Nota Limba Engleza : 7
+
+
+Prenumele : Petru
+Numele : Nemerenco
+An nastere : 1999
+Adresa : Petricani
+Specialiatea  : MI
+Nota Programare : 9
+Nota Filozofie : 7
+Nota Limba Engleza : 10
+
+
+
+
+Sortarea descendenta a notelor la programare
+
+Prenumele : Petru
+Numele : Nemerenco
+An nastere : 1999
+Adresa : Petricani
+Specialiatea  : MI
+Nota Programare : 9
+Nota Filozofie : 7
+Nota Limba Engleza : 10
+
+
+Prenumele : Eugen
+Numele : Marinciuc
+An nastere : 2003
+Adresa : Strada Pietrarilor, Chisinau
+Specialiatea  : MI
+Nota Programare : 9
+Nota Filozofie : 8
+Nota Limba Engleza : 10
+
+
+Prenumele : Radu
+Numele : Loghin
+An nastere : 2001
+Adresa : Strada Pietrarilor
+Specialiatea  : TI
+Nota Programare : 8
+Nota Filozofie : 8
+Nota Limba Engleza : 7
+
+

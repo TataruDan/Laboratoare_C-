@@ -1,0 +1,27 @@
+Prenume : Eugen
+Nume : Marinciuc
+An nastere : 2003
+Adresa : Strada Pietrarilor, Chisinau
+Specialitatea : MI
+Nota Programare : 9
+Nota Filozofie : 8
+Nota Engleza : 10
+
+Prenume : Radu
+Nume : Loghin
+An nastere : 2001
+Adresa : Strada Pietrarilor
+Specialitatea : TI
+Nota Programare : 8
+Nota Filozofie : 8
+Nota Engleza : 7
+
+Prenume : Petru
+Nume : Nemerenco
+An nastere : 1999
+Adresa : Petricani
+Specialitatea : MI
+Nota Programare : 9
+Nota Filozofie : 7
+Nota Engleza : 10
+
